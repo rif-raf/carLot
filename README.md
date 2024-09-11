@@ -1,0 +1,4 @@
+- Hey there! Please execute the build first before running
+- To run the build ```npx tsc```
+- To execute the script to populate the database, please run ```node dist/index.js```
+- To start the apollo graphql server, please run ```npm run start``` and navigate to localhost:5700
