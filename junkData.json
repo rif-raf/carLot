@@ -1,0 +1,292 @@
+[
+    {
+        "$": {
+            "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "xmlns:xsd": "http://www.w3.org/2001/XMLSchema"
+        },
+        "Count": [
+            "1"
+        ],
+        "Message": [
+            "Response returned successfully"
+        ],
+        "SearchCriteria": [
+            "Make ID: 12858"
+        ],
+        "Results": [
+            {
+                "VehicleTypesForMakeIds": [
+                    {
+                        "VehicleTypeId": [
+                            "6"
+                        ],
+                        "VehicleTypeName": [
+                            "Trailer"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "$": {
+            "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "xmlns:xsd": "http://www.w3.org/2001/XMLSchema"
+        },
+        "Count": [
+            "1"
+        ],
+        "Message": [
+            "Response returned successfully"
+        ],
+        "SearchCriteria": [
+            "Make ID: 4877"
+        ],
+        "Results": [
+            {
+                "VehicleTypesForMakeIds": [
+                    {
+                        "VehicleTypeId": [
+                            "1"
+                        ],
+                        "VehicleTypeName": [
+                            "Motorcycle"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "$": {
+            "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "xmlns:xsd": "http://www.w3.org/2001/XMLSchema"
+        },
+        "Count": [
+            "1"
+        ],
+        "Message": [
+            "Response returned successfully"
+        ],
+        "SearchCriteria": [
+            "Make ID: 11257"
+        ],
+        "Results": [
+            {
+                "VehicleTypesForMakeIds": [
+                    {
+                        "VehicleTypeId": [
+                            "6"
+                        ],
+                        "VehicleTypeName": [
+                            "Trailer"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "$": {
+            "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "xmlns:xsd": "http://www.w3.org/2001/XMLSchema"
+        },
+        "Count": [
+            "1"
+        ],
+        "Message": [
+            "Response returned successfully"
+        ],
+        "SearchCriteria": [
+            "Make ID: 12255"
+        ],
+        "Results": [
+            {
+                "VehicleTypesForMakeIds": [
+                    {
+                        "VehicleTypeId": [
+                            "6"
+                        ],
+                        "VehicleTypeName": [
+                            "Trailer"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "$": {
+            "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "xmlns:xsd": "http://www.w3.org/2001/XMLSchema"
+        },
+        "Count": [
+            "1"
+        ],
+        "Message": [
+            "Response returned successfully"
+        ],
+        "SearchCriteria": [
+            "Make ID: 13053"
+        ],
+        "Results": [
+            {
+                "VehicleTypesForMakeIds": [
+                    {
+                        "VehicleTypeId": [
+                            "6"
+                        ],
+                        "VehicleTypeName": [
+                            "Trailer"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "$": {
+            "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "xmlns:xsd": "http://www.w3.org/2001/XMLSchema"
+        },
+        "Count": [
+            "1"
+        ],
+        "Message": [
+            "Response returned successfully"
+        ],
+        "SearchCriteria": [
+            "Make ID: 6387"
+        ],
+        "Results": [
+            {
+                "VehicleTypesForMakeIds": [
+                    {
+                        "VehicleTypeId": [
+                            "6"
+                        ],
+                        "VehicleTypeName": [
+                            "Trailer"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "$": {
+            "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "xmlns:xsd": "http://www.w3.org/2001/XMLSchema"
+        },
+        "Count": [
+            "1"
+        ],
+        "Message": [
+            "Response returned successfully"
+        ],
+        "SearchCriteria": [
+            "Make ID: 12948"
+        ],
+        "Results": [
+            {
+                "VehicleTypesForMakeIds": [
+                    {
+                        "VehicleTypeId": [
+                            "2"
+                        ],
+                        "VehicleTypeName": [
+                            "Passenger Car"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "$": {
+            "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "xmlns:xsd": "http://www.w3.org/2001/XMLSchema"
+        },
+        "Count": [
+            "1"
+        ],
+        "Message": [
+            "Response returned successfully"
+        ],
+        "SearchCriteria": [
+            "Make ID: 9172"
+        ],
+        "Results": [
+            {
+                "VehicleTypesForMakeIds": [
+                    {
+                        "VehicleTypeId": [
+                            "6"
+                        ],
+                        "VehicleTypeName": [
+                            "Trailer"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "$": {
+            "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "xmlns:xsd": "http://www.w3.org/2001/XMLSchema"
+        },
+        "Count": [
+            "1"
+        ],
+        "Message": [
+            "Response returned successfully"
+        ],
+        "SearchCriteria": [
+            "Make ID: 6124"
+        ],
+        "Results": [
+            {
+                "VehicleTypesForMakeIds": [
+                    {
+                        "VehicleTypeId": [
+                            "6"
+                        ],
+                        "VehicleTypeName": [
+                            "Trailer"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "$": {
+            "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "xmlns:xsd": "http://www.w3.org/2001/XMLSchema"
+        },
+        "Count": [
+            "1"
+        ],
+        "Message": [
+            "Response returned successfully"
+        ],
+        "SearchCriteria": [
+            "Make ID: 12972"
+        ],
+        "Results": [
+            {
+                "VehicleTypesForMakeIds": [
+                    {
+                        "VehicleTypeId": [
+                            "6"
+                        ],
+                        "VehicleTypeName": [
+                            "Trailer"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

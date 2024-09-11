@@ -1,0 +1,3 @@
+
+
+export const mockCarMakesXML = { data: `<Response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Count>11490</Count><Message>Response returned successfully</Message><Results><AllVehicleMakes><Make_ID>12858</Make_ID><Make_Name>#1 ALPINE CUSTOMS</Make_Name></AllVehicleMakes><AllVehicleMakes><Make_ID>4877</Make_ID><Make_Name>1/OFF KUSTOMS, LLC</Make_Name></AllVehicleMakes></Results></Response>` }

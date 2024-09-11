@@ -1,0 +1,18 @@
+
+type Query{
+    carMake(id: ID!): CarMake
+    carMakes: [CarMake]
+}
+
+type CarMake { 
+    id: ID
+    makeId: String
+    makeName: String
+    vehicleTypes: [VehicleType]
+}
+
+type VehicleType {
+    typeId: ID
+    typeName: String
+}
+
